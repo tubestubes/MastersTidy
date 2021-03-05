@@ -1,0 +1,143 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Ackerman}{2012}{Acker2012}
+Ackerman, E.  \harvardyearleft 2012\harvardyearright , `Study, intelligent cars
+  could boost highway capacity by 273 percent', {\em IEEE Spectrum} .
+
+\harvarditem{Bertoncello \harvardand\ Wee}{2015}{Bert2015}
+Bertoncello, M. \harvardand\ Wee, D.  \harvardyearleft 2015\harvardyearright ,
+  `Ten ways autonomous driving could redefine the automotive world', {\em
+  McKinsey And Company} {\bf 6}.
+
+\harvarditem{Bonabeau}{2002}{Bonabeau2002}
+Bonabeau, E.  \harvardyearleft 2002\harvardyearright , `Agent-based modeling:
+  Methods and techniques for simulating human systems', {\em Proceedings of the
+  National Academy of Sciences} {\bf 99},~7280.
+
+\harvarditem{Cascetta}{1989}{Cascetta1989}
+Cascetta, E.  \harvardyearleft 1989\harvardyearright , `A stochastic process
+  approach to the analysis of temporal dynamics in transportation networks',
+  {\em Transportation Research Part B: Methodological} {\bf 23},~1--17.
+
+\harvarditem[Chen et~al.]{Chen, Ahn, Chitturi \harvardand\
+  Noyce}{2017}{chen2017}
+Chen, D., Ahn, S., Chitturi, M. \harvardand\ Noyce, D.~A.  \harvardyearleft
+  2017\harvardyearright , `Towards vehicle automation: Roadway capacity
+  formulation for traffic mixed with regular and automated vehicles', {\em
+  Transportation Research Part B: Methodological} {\bf 100},~196--221.
+
+\harvarditem{Cross}{1973}{Cross1973}
+Cross, J.~G.  \harvardyearleft 1973\harvardyearright , `A stochastic learning
+  model of economic behavior', {\em The Quarterly Journal of Economics} {\bf
+  87},~239.
+
+\harvarditem{Daganzo \harvardand\ Sheffi}{1977}{Daganzo1977}
+Daganzo, C.~F. \harvardand\ Sheffi, Y.  \harvardyearleft 1977\harvardyearright
+  , `On stochastic models of traffic assignment', {\em Transportation Science}
+  {\bf 11},~253--274.
+
+\harvarditem{Ford \harvardand\ Fulkerson}{1956}{Ford1956}
+Ford, L.~R. \harvardand\ Fulkerson, D.~R.  \harvardyearleft
+  1956\harvardyearright , `Maximal flow through a network', {\em Canadian
+  Journal of Mathematics} {\bf 8},~399--404.
+
+\harvarditem[Frank et~al.]{Frank, Wolfe et~al.}{1956}{Frank1956}
+Frank, M., Wolfe, P. et~al.  \harvardyearleft 1956\harvardyearright , `An
+  algorithm for quadratic programming', {\em Naval research logistics
+  quarterly} {\bf 3},~95--110.
+
+\harvarditem{Gardner}{1970}{Gardner1970}
+Gardner, M.  \harvardyearleft 1970\harvardyearright , `Mathematical games',
+  {\em Scientific American} {\bf 223},~120--123.
+
+\harvarditem{Hazelton \harvardand\ Parry}{2016}{Hazelton2016}
+Hazelton, M.~L. \harvardand\ Parry, K.  \harvardyearleft 2016\harvardyearright
+  , `Statistical methods for comparison of day-to-day traffic models', {\em
+  Special issue\: Day-to-Day Dynamics in Transportation Networks} {\bf
+  92},~22--34.
+
+\harvarditem{Horowitz}{1984}{Horowitz1984}
+Horowitz, J.~L.  \harvardyearleft 1984\harvardyearright , `The stability of
+  stochastic equilibrium in a two-link transportation network', {\em
+  Transportation Research Part B: Methodological} {\bf 18},~13--28.
+
+\harvarditem{Jungnickel}{2013}{Jungnickel2013}
+Jungnickel, D.  \harvardyearleft 2013\harvardyearright , {\em Graphs, Networks
+  and Algorithms}, 4 edn, Springer Berlin Heidelberg.
+
+\harvarditem[Lee et~al.]{Lee, Son \harvardand\ Jin}{2010}{Lee2010}
+Lee, S., Son, Y.-J. \harvardand\ Jin, J.  \harvardyearleft
+  2010\harvardyearright , `An integrated human decision making model for
+  evacuation scenarios under a bdi framework', {\em ACM Trans. Model. Comput.
+  Simul.} {\bf 20}.
+
+\harvarditem[Li et~al.]{Li, Liu \harvardand\ Nie}{2018}{Li2018}
+Li, R., Liu, X. \harvardand\ Nie, Y.~M.  \harvardyearleft 2018\harvardyearright
+  , `Managing partially automated network traffic flow: Efficiency vs.
+  stability', {\em Transportation Research Part B: Methodological} {\bf
+  114},~300--324.
+
+\harvarditem{Liu \harvardand\ Huang}{2007}{Liu2007}
+Liu, T. \harvardand\ Huang, H.  \harvardyearleft 2007\harvardyearright ,
+  Multi-agent simulation on day-to-day route choice behavior, Vol.~5,
+  pp.~492--498.
+
+\harvarditem{Macal \harvardand\ North}{2005}{Macal2005}
+Macal, C.~M. \harvardand\ North, M.~J.  \harvardyearleft 2005\harvardyearright
+  , Tutorial on agent-based modeling and simulation, p.~14 pp.
+
+\harvarditem{Manual}{1964}{Manual1964}
+Manual, T.~A.  \harvardyearleft 1964\harvardyearright , `Urban planning
+  division', {\em US Department of Commerce, Washington DC} .
+
+\harvarditem[Nakayama et~al.]{Nakayama, Kitamura \harvardand\
+  Fujii}{2001}{Nakayama2001}
+Nakayama, S., Kitamura, R. \harvardand\ Fujii, S.  \harvardyearleft
+  2001\harvardyearright , `Drivers’ route choice rules and network behavior:
+  Do drivers become rational and homogeneous through learning?', {\em
+  Transportation Research Record} {\bf 1752},~62--68.
+
+\harvarditem[Ntousakis et~al.]{Ntousakis, Nikolos \harvardand\
+  Papageorgiou}{2015}{Ntous2015}
+Ntousakis, I.~A., Nikolos, I.~K. \harvardand\ Papageorgiou, M.
+  \harvardyearleft 2015\harvardyearright , `On microscopic modelling of
+  adaptive cruise control systems', {\em Transportation Research Procedia} {\bf
+  6},~111--127.
+
+\harvarditem{Peeta \harvardand\ Yang}{2003}{Peeta2003}
+Peeta, S. \harvardand\ Yang, T.-H.  \harvardyearleft 2003\harvardyearright ,
+  `Stability issues for dynamic traffic assignment', {\em Automatica} {\bf
+  39},~21--34.
+
+\harvarditem{Prashker \harvardand\ Bekhor}{2004}{Prashker2004}
+Prashker, J.~N. \harvardand\ Bekhor, S.  \harvardyearleft 2004\harvardyearright
+  , `Route choice models used in the stochastic user equilibrium problem: A
+  review', {\em Transport Reviews} {\bf 24},~437--463.
+
+\harvarditem{Wardrop}{1952}{Wardrop1952}
+Wardrop, J.~G.  \harvardyearleft 1952\harvardyearright , `Road paper. some
+  theoretical aspects of road traffic research.', {\em Proceedings of the
+  institution of civil engineers} {\bf 1},~325--362.
+
+\harvarditem{Watling \harvardand\ Hazelton}{2003}{Watling2003}
+Watling, D. \harvardand\ Hazelton, M.~L.  \harvardyearleft
+  2003\harvardyearright , `The dynamics and equilibria of day-to-day assignment
+  models', {\em Networks and Spatial Economics} {\bf 3},~349--370.
+
+\harvarditem[Wei et~al.]{Wei, Ma \harvardand\ Ning}{2014}{Wei2014}
+Wei, F., Ma, S. \harvardand\ Ning, J.  \harvardyearleft 2014\harvardyearright ,
+  `A day-to-day route choice model based on reinforcement learning', {\em
+  Mathematical Problems in Engineering} {\bf 2014}.
+
+\harvarditem{Zhang}{2011}{Zhang2011}
+Zhang, L.  \harvardyearleft 2011\harvardyearright , `Behavioral foundation of
+  route choice and traffic assignment', {\em Transportation Research Record:
+  Journal of the Transportation Research Board} {\bf 2254},~1--10.
+
+\harvarditem[Zheng et~al.]{Zheng, Son, Chiu, Head, Feng, Xi, Kim \harvardand\
+  Hickman}{2013}{Zheng2013}
+Zheng, H., Son, Y.-J., Chiu, Y.-C., Head, L., Feng, Y., Xi, H., Kim, S.
+  \harvardand\ Hickman, M.  \harvardyearleft 2013\harvardyearright , `A primer
+  for agent-based simulation and modeling in transportation applications'.
+
+\end{thebibliography}

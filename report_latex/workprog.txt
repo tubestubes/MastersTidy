@@ -1,0 +1,119 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DELETE ME WORK PRGRAM
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\iffalse
+\section{Work Program [[[DELETE]]]}
+\subsection{Stage 1}
+Develop a program to simulate drivers day-to-day route choice behaviour using python.
+
+State 1 tasks:
+\begin{itemize}
+\item Establish python environment and packages for this project. Check all necessary software is installed and licensed for the duration of this project.
+\item Establish driver rules at the conceptual level.
+\item Formulate bottom-up model for drivers.
+\item Develop driver class.
+\item Create a test network(s). Formulate cost functions.
+\item Model network in python.
+\item Perform test simulation, check for errors.
+\end{itemize}
+
+State 1 milestones:
+\begin{itemize}
+\item A prepared computing environment.
+\item Fully developed driver class with rules and goals.
+\item Fully developed network with nodes links and costs functions.
+\item A python script to run a simulation with given parameters.
+ \end{itemize}
+
+Estimated time for this stage: 4 weeks.
+
+\subsection{Stage 2}
+Analyse the impact of different driver behaviours and system parameters.
+
+Stage 2 tasks:
+\begin{itemize}
+\item Tune system parameters for realistic performance.
+\item Vary system parameters and drivers rules to study their effect on performance.
+\end{itemize}
+\newpage
+Stage 2 milestones:
+\begin{itemize}
+\item A well-tuned model.
+\item Data on network performance under different inputs.
+\end{itemize}
+
+Estimated time for this stage: 1 week.
+
+\subsection{Stage 3}
+Analyse the impact of different model assumptions deemed relevant to the difference in behaviour between autonomous and human drivers.
+
+State 3 tasks:
+\begin{itemize}
+\item Determine what driver rules suit autonomous vehicles
+\item Study effect of chosen rules on performance.
+ \end{itemize}
+
+Stage 3 milestones:
+\begin{itemize}
+\item Outline of what an AV looks like in the model.
+\end{itemize}
+
+Estimated time: 1 week.
+
+\subsection{Stage 4}
+Develop a model to simulate a mixed system of autonomous and human drivers (AVs and HVs), and their route choice behaviour.
+
+Stage 4 tasks:
+\begin{itemize}
+\item Develop a class for AVs from the previous driver class
+\item Formulate network with AV flow
+\item Simulate with both AVs and HVs, test the simulation for errors.
+\end{itemize}
+
+Stage 4 milestones:
+\begin{itemize}
+\item Fully developed AV class with rules and goals.
+\item Fully developed network with nodes links and costs functions for HVs and AVs.
+\item A python script to run a working simulation.
+\end{itemize}
+
+Estimated time: 2 weeks.
+
+\subsection{Stage 5}
+Determine what behaviours and parameters for autonomous drivers optimise the flow through the network.
+
+Stage 5 tasks:
+\begin{itemize}
+\item Vary parameters and run simulations, check for errors.
+\item Collect data to determine what parameters optimise the network.
+\end{itemize}
+
+Stage 5 milestones:
+\begin{itemize}
+\item A set of simulations that work properly.
+\item Data for various configurations.
+ Analysis of data and conclusions on configurations.
+\end{itemize}
+
+Estimated time: 2 weeks.
+
+\subsection{Stage 6}
+
+Preparation of research report.
+
+Estimated time: 2 weeks.
+
+Estimated project completion: 21 August 2020, assuming project starts on 01 June 2020.
+
+\subsection{Equipment Needed}
+\begin{itemize}
+\item Computer
+\item Python installation, and packages.
+\item Cloud back-up service such as OneDrive and GitHub.
+\end{itemize}
+
+\subsection{Risk Assessment}
+This project can easily be considered low-risk due to its theoretical nature and does not need specialized equipment or labs. Table 1 summarises the risks associated with this project.
+
+\pagebreak
+\fi
